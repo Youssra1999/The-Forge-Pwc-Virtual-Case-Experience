@@ -1,5 +1,7 @@
 # The-Forage-Pwc-Virtual-Case-Experience
 
+![Call Center Image](PwC_Dashboard_1.PNG)
+
 ## Overview
 
 This README provides a structured approach for understanding and visualizing call center data effectively. It outlines the steps to explore, analyze, and present insights from the dataset, ensuring that readers can make informed decisions based on the information.
